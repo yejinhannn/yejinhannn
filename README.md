@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yejinhannn
 - 👀 I’m interested in studying my major
 - 🌱 I’m currently learning computer
-- 💞️ I’m looking to collaborate on new enterprise
+- 💞️ I’m looking to collaborate with my new enterprise
 - 📫 How to reach me  hanys729@naver.com
 
 <!---
